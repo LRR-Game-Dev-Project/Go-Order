@@ -99,3 +99,77 @@
   3. ניצחון סופי – השלמת כל השלבים  
 - **השפעת מזל מול כישרון:** המשחק נשען בעיקר על כישרון (ניווט, תזמון, תגובה).
 
+# ניתוח משחקים דומים –
+
+---
+
+## 🔍 ביטויי חיפוש
+- “delivery game mobile 2D courier city”  
+- “city courier delivery rider game android”  
+- “bike courier game mobile open world delivery”  
+- “urban food delivery game mobile upgrade bike”  
+
+---
+
+## 1) Urban Food Delivery Game
+![Urban Food Delivery Game](https://images.sftcdn.net/images/t_app-cover-s%2Cf_auto/p/6f60c2bc-3861-482a-8a1a-8cee1f0d6e6c/553357322/urban-food-delivery-game-screenshot)
+
+**קישור:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.rsg.food.delivery&utm_source=chatgpt.com)  
+
+**מאפיינים עיקריים:**  
+- שחקן מוביל אוכל בעיר עם אופניים או רכב.  
+- ניווט בעיר, הימנעות ממכשולים, משלוחים נגד הזמן.  
+- אפשרויות שדרוג רכב/אופניים, אזורים חדשים, מטבעות.  
+
+**איך המשחק שלנו יהיה שונה:**  
+- הדגש על ניווט בין רחובות וגשרים עם מיני־מפה.  
+- שלבי קושי מגוונים עם תנאים מיוחדים (לא למלא דלק, לא לעבור בכבישים מסוימים).  
+- סגנון גרפי ציורי, קליל, מתאים לילדים ונוער.  
+- הוספת אירועים דינמיים כמו שמן על הכביש ושוטרים.
+
+---
+
+## 2) City Courier Delivery Rider
+![City Courier Delivery Rider](https://play-lh.googleusercontent.com/mXdac35QIAe_-LxI5VKcaNbPnaF7mj7zrrwpsnKDM4IoNKSteO6eG4dy5RM4L-L1Iw=w526-h296-rw)
+
+**קישור:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=taptrendinggames.citycouriermotodeliveryrider&utm_source=chatgpt.com)  
+
+**מאפיינים עיקריים:**  
+- רוכב אופנוע בעיר ומבצע משלוחים.  
+- ניתן לשדרג אופנוע/אופניים ולאסוף דלק.  
+- מכשולים כמו תנועה כבדה ועיר מפותלת.  
+
+**איך המשחק שלנו יהיה שונה:**  
+- משחק מותאם לילדים/נוער עם אופניים, פחות סימולציה ריאליסטית.  
+- מיני־מפה והכוונה חזותית דרך העיר.  
+- משימות עם תנאים מיוחדים לכל שלב – משלוחים ספציפיים, הימנעות מדלק או מכבישים מסוימים.  
+- דינמיקה של “עיר חיה” עם מכשולים ואירועים.
+
+---
+
+## 3) Delivery Rider
+![Delivery Rider](https://play-lh.googleusercontent.com/cZ-I1IBr7bggMXR_176ptekP9omW7rS71bSoEwiRlZFEI4L7MfrWUlFIQCwYlx3b2w=w526-h296-rw)
+
+**קישור:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.gtactiongames.deliveryrider&utm_source=chatgpt.com)  
+
+**מאפיינים עיקריים:**  
+- סימולטור משלוחי אוכל באופניים בעיר עמוסה.  
+- שדרוג אופניים ככל שמתקדמים במשחק.  
+- משימות רבות מאוד ומאתגרות בזמן.  
+
+**איך המשחק שלנו יהיה שונה:**  
+- הרחבת המשלוחים מעבר לאוכל – סוגים שונים של הזמנות.  
+- שלבי קושי עם תנאים מיוחדים ומגוונים.  
+- HUD ברור עם מיני־מפה, חצים והכוונה.  
+- שילוב של שדרוגים ייחודיים ואירועים דינמיים.
+
+---
+
+## ✅ סיכום
+המשחק שלנו יבדיל את עצמו מהמתחרים באמצעות:  
+- ניווט עירוני פתוח עם מיני־מפה.  
+- שלבים עם תנאים משתנים ואתגרים נוספים.  
+- סגנון גרפי מצויר, קליל, ממוקד לילדים/נוער.  
+- אירועים דינמיים והדגשת מיומנות השחקן (תזמון וניווט).  
+- דירוגים אסינכרוניים ותמריצי הישג.
+
